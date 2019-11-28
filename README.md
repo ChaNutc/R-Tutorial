@@ -51,7 +51,7 @@ For this assignment, assume that the matrix supplied is always invertible.
 
 In order to complete this assignment, you must do the following:
 
-Fork the GitHub repository containing the stub R files at https://github.com/rdpeng/ProgrammingAssignment2 to create a copy under your own account.
+Fork the GitHub repository containing the stub R files at https://github.com/ChaNutc/R-Tutorial/blob/master/cacheMatrix.R to create a copy under your own account.
 Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
 Edit the R file contained in the git repository and place your solution in that file (please do not rename the file).
 Commit your completed R file into YOUR git repository and push your git branch to the GitHub repository under your account.
